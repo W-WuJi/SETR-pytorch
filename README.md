@@ -59,3 +59,6 @@ The output shape is (1, 10).
 
 ## more
 More examples will be updated later.
+
+## Dataset
+初始数据178张
